@@ -3,9 +3,9 @@ class Pizza {
   dough: string;
   sauce: string;
   toppings: any[];
-  constructor({ name = "", dough = "", toppings = [], saurce = "" }) {
+  constructor({ name = "", dough = "", toppings = [], sauce = "" }) {
     (this.name = name), (this.dough = dough), (this.toppings = toppings);
-    this.sauce = saurce;
+    this.sauce = sauce;
   }
 
   prepare() {

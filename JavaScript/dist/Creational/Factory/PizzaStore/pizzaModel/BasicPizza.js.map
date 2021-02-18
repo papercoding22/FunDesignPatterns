@@ -1,0 +1,1 @@
+{"version":3,"file":"BasicPizza.js","sourceRoot":"","sources":["../../../../../src/Creational/Factory/PizzaStore/pizzaModel/BasicPizza.ts"],"names":[],"mappings":";;;;;AAAA,oDAA4B;AAE5B,MAAM,UAAW,SAAQ,eAAK;IAC5B,GAAG;QACD,OAAO,CAAC,GAAG,CAAC,sCAAsC,CAAC,CAAC;IACtD,CAAC;CACF;AAED,kBAAe,UAAU,CAAC"}
