@@ -13,6 +13,10 @@ class Pizza {
     console.log("Tossing dough...");
     console.log("Adding sauce");
     console.log("Adding toppings");
+
+    for (let topping of this.toppings) {
+      console.log(topping + " ");
+    }
   }
 
   bake() {
