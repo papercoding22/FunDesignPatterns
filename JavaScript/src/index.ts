@@ -1,6 +1,6 @@
 import menu from "console-menu";
 
-import runSingleton from "./Singleton";
+import runSingleton from "./Creational/Singleton";
 
 enum MENU_ID {
   SINGLETON = "SINGLETON",
